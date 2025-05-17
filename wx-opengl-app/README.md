@@ -39,7 +39,7 @@ wx-opengl-app
 
 2. **Clone the Repository**  
    ```
-   git clone <repository-url>
+   git clone https://github.com/Dipika14/deeprey-assessment.git
    cd wx-opengl-app
    ```
 
@@ -66,7 +66,3 @@ wx-opengl-app
 
 - The PNG button image should be located at `images/button.png` relative to the build directory.
 - The application demonstrates integration of wxWidgets controls with OpenGL rendering and event handling.
-
-## Contributing
-
-Contributions are welcome! Please open issues or submit pull requests for improvements or bug fixes.
